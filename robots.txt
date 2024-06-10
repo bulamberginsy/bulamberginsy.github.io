@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bulamberginsy.github.io/sitemap.html
+Sitemap: https://bulamberginsy.github.io/app/sitemap.html
+Sitemap: https://bulamberginsy.github.io/assets/sitemap.html
+Sitemap: https://bulamberginsy.github.io/css/sitemap.html
+Sitemap: https://bulamberginsy.github.io/includes/sitemap.html
+Sitemap: https://bulamberginsy.github.io/item/sitemap.html
+Sitemap: https://bulamberginsy.github.io/src/sitemap.html
